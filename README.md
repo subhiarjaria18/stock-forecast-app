@@ -1,1 +1,1 @@
-# stockforecast-app
+# stock-forecast-app
