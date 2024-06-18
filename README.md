@@ -19,7 +19,7 @@ Explore the app here: [Stock Forecast Web App](https://stock-forecast-app-twu5ha
 1. **Streamlit:** To create a seamless, interactive web interface.
 2. **Prophet:** For robust time series forecasting.
 3. **yFinance:** To fetch the most up-to-date stock data.
-4. **Python Libraries:** Pandas, NumPy, Matplotlib, Plotly (used for data manipulation and visualization).
+4. **Python Libraries:** Plotly (used for data manipulation and visualization).
 
 ## 🚀 Getting Started
 
