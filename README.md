@@ -27,7 +27,7 @@ To run this application locally:
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/yourusername/stock-forecast-app.git
+   git clone https://github.com/subhiarjaria18/stock-forecast-app.git
    cd stock-forecast-app
 2. Install dependencies using pip:
    ```bash
