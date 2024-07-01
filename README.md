@@ -2,6 +2,8 @@
 
 Welcome to my stock forecast web app! This project leverages Streamlit, Prophet, and yFinance to provide real-time stock prices, data visualization, and advanced forecasting capabilities.
 
+![interface](test_run/run.pdf)
+
 ## 🌟  Key Features
 
 - **Real-Time Stock Prices:** Instantly access the latest stock prices for top companies like Google, Amazon, Tesla, JP MORGAN, and NVIDIA.
